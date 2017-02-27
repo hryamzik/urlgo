@@ -9,5 +9,5 @@ Basic tool for http requests. Inspired by ssl `gnutls_handshake() failed: Error 
 Could support more curl flags in future but currently takes just one argument, url:
 
 ```sh
-urlgo http://example.com
+urlgo http://httpbin.org/get
 ```
